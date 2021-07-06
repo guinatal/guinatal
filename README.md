@@ -1,6 +1,6 @@
 ### Hi there, I'm Guilherme 👋
 
-From Brazil and currently living in Dublin, Ireland.
+A developer from Brazil and currently living in Dublin, Ireland 👨‍💻
 
 <!--
 **guinatal/guinatal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
